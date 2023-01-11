@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "firstName": "Bricik",
+      "lastName": "Detoilek",
+      "email": "bdetoile0@bandcamp.com",
+      "password": "X4Yy1YVt",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Rhetta",
+      "lastName": "Bunce",
+      "email": "rbunce1@bloomberg.com",
+      "password": "zQeEDdzr"
+    },
+    {
+      "id": 3,
+      "firstName": "Gretna",
+      "lastName": "Marcu",
+      "email": "gmarcu2@redcross.org",
+      "password": "MxcunN9"
+    },
+    {
+      "id": 4,
+      "firstName": "Gothart",
+      "lastName": "MacCaffrey",
+      "email": "gmaccaffrey3@latimes.com",
+      "password": "DERVrTrH"
+    },
+    {
+      "id": 5,
+      "firstName": "Dorella",
+      "lastName": "Scholcroft",
+      "email": "dscholcroft4@google.com.br",
+      "password": "aCaIE6MpQI"
+    },
+    {
+      "id": 6,
+      "firstName": "Ximenes",
+      "lastName": "Povey",
+      "email": "xpovey5@redcross.org",
+      "password": "GL5nxkYgH"
+    },
+    {
+      "id": 7,
+      "firstName": "Barbra",
+      "lastName": "Insall",
+      "email": "binsall6@mapquest.com",
+      "password": "O0RmkyRq"
+    },
+    {
+      "id": 8,
+      "firstName": "Terence",
+      "lastName": "Faire",
+      "email": "tfaire7@so-net.ne.jp",
+      "password": "jOuZTMxHgQuj"
+    },
+    {
+      "firstName": "Simonekk",
+      "lastName": "Snuggs",
+      "email": "ssnuggs8@phoca.cz",
+      "password": "3Y6Nm9",
+      "id": 9
+    }
+  ]
+}
